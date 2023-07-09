@@ -1,1 +1,1 @@
-🔗: https://rck-ppr-scssrs.netlify.app/
+https://rockpaperscissorsbyyash.netlify.app/
